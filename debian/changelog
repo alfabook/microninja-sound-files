@@ -1,0 +1,11 @@
+microninja-sound-files (1.1.2) unstable; urgency=low
+
+  * New boot up sound file
+
+ -- Team alfabook <info@alfabook.it>  Thu, 4 May 2017 10:50:21 +0200
+
+microninja-sound-files (1.1-1) unstable; urgency=low
+
+  * Initial packaging
+
+ -- Team Kano <dev@kano.me>  Wed, 25 Jun 2014 10:50:21 +0100
